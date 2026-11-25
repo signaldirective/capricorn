@@ -1,0 +1,143 @@
+//   ____   _    ____  ___  ___ ____  ___  ____  _   _
+//  / ___| / \  |  _ \|_ _||  _ \_ _| / _ \|  _ \| \ | |
+// | |    / _ \ | |_) || | | |_) | | | | | | |_) |  \| |
+// | |___/ ___ \|  __/ | | |  _ <| | | |_| |  _ <| |\  |
+//  \____/_/   \_\_|   |___||_| \_\___|\___/|_| \_\_| \_|
+//
+// Capricorn — the cyborg wolf Capri (Cyberpunk: Edgerunners 2)
+// background      #021228 →   2  18  40
+// foreground      #d8d2c9 → 216 210 201
+// accent (green)  #24d120 →  36 209  32
+// bright green    #6bf25f → 107 242  95
+// red             #f80824 → 248   8  36
+// bright red      #ff4a57 → 255  74  87
+// orange          #f77302 → 247 115   2
+// yellow          #f99204 → 249 146   4
+// bright yellow   #ffb64d → 255 182  77
+// blue            #1f65a2 →  31 101 162
+// cyan            #40b1d3 →  64 177 211
+// bright cyan     #8fdcf2 → 143 220 242
+// magenta         #b864a8 → 184 100 168
+// muted           #595c64 →  89  92 100
+// selection       #0e4477 →  14  68 119
+
+themes {
+    current {
+        text_unselected {
+            base 216 210 201
+            background 2 18 40
+            emphasis_0 36 209 32
+            emphasis_1 249 146 4
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        text_selected {
+            base 2 18 40
+            background 36 209 32
+            emphasis_0 216 210 201
+            emphasis_1 107 242 95
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        ribbon_selected {
+            base 2 18 40
+            background 36 209 32
+            emphasis_0 248 8 36
+            emphasis_1 216 210 201
+            emphasis_2 107 242 95
+            emphasis_3 64 177 211
+        }
+        ribbon_unselected {
+            base 216 210 201
+            background 2 18 40
+            emphasis_0 36 209 32
+            emphasis_1 249 146 4
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        table_title {
+            base 216 210 201
+            background 2 18 40
+            emphasis_0 36 209 32
+            emphasis_1 249 146 4
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        table_cell_selected {
+            base 2 18 40
+            background 36 209 32
+            emphasis_0 216 210 201
+            emphasis_1 107 242 95
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        table_cell_unselected {
+            base 216 210 201
+            background 2 18 40
+            emphasis_0 36 209 32
+            emphasis_1 249 146 4
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        list_selected {
+            base 2 18 40
+            background 36 209 32
+            emphasis_0 216 210 201
+            emphasis_1 107 242 95
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        list_unselected {
+            base 216 210 201
+            background 2 18 40
+            emphasis_0 36 209 32
+            emphasis_1 249 146 4
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        frame_selected {
+            base 36 209 32
+            background 2 18 40
+            emphasis_0 248 8 36
+            emphasis_1 216 210 201
+            emphasis_2 107 242 95
+            emphasis_3 64 177 211
+        }
+        frame_highlight {
+            base 216 210 201
+            background 2 18 40
+            emphasis_0 36 209 32
+            emphasis_1 249 146 4
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        exit_code_success {
+            base 36 209 32
+            background 2 18 40
+            emphasis_0 216 210 201
+            emphasis_1 107 242 95
+            emphasis_2 64 177 211
+            emphasis_3 89 92 100
+        }
+        exit_code_error {
+            base 248 8 36
+            background 2 18 40
+            emphasis_0 36 209 32
+            emphasis_1 247 115 2
+            emphasis_2 216 210 201
+            emphasis_3 64 177 211
+        }
+        multiplayer_user_colors {
+            player_1 248 8 36
+            player_2 36 209 32
+            player_3 247 115 2
+            player_4 64 177 211
+            player_5 184 100 168
+            player_6 249 146 4
+            player_7 107 242 95
+            player_8 216 210 201
+            player_9 89 92 100
+            player_10 248 8 36
+        }
+    }
+}

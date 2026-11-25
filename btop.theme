@@ -1,0 +1,68 @@
+# Capricorn — neon green / arterial red / hot orange on deep night navy.
+# Transparent main background, so the Capri wallpaper bleeds through.
+
+theme[main_bg]=""
+
+# Main text color
+theme[main_fg]="#d8d2c9"
+
+# Title color for boxes
+theme[title]="#24d120"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#f99204"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#0e4477"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#f2ede6"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#595c64"
+
+# Misc colors for processes box
+theme[proc_misc]="#f77302"
+
+# Box outline and divider line color — arterial red frames
+theme[cpu_box]="#f80824"
+theme[mem_box]="#f80824"
+theme[net_box]="#f80824"
+theme[proc_box]="#f80824"
+theme[div_line]="#595c64"
+
+# Heat: amber into hot orange into red
+theme[temp_start]="#f99204"
+theme[temp_mid]="#f77302"
+theme[temp_end]="#f80824"
+
+# CPU: neon green climbing into cyan
+theme[cpu_start]="#24d120"
+theme[cpu_mid]="#6bf25f"
+theme[cpu_end]="#8fdcf2"
+
+# Memory: amber into hot orange into red
+theme[free_start]="#f99204"
+theme[free_mid]="#f77302"
+theme[free_end]="#f80824"
+
+theme[cached_start]="#f99204"
+theme[cached_mid]="#f77302"
+theme[cached_end]="#f80824"
+
+theme[available_start]="#f99204"
+theme[available_mid]="#f77302"
+theme[available_end]="#f80824"
+
+theme[used_start]="#f99204"
+theme[used_mid]="#f77302"
+theme[used_end]="#f80824"
+
+# Network: steel blue into bright cyan
+theme[download_start]="#40b1d3"
+theme[download_mid]="#5bb8e8"
+theme[download_end]="#8fdcf2"
+
+theme[upload_start]="#40b1d3"
+theme[upload_mid]="#5bb8e8"
+theme[upload_end]="#8fdcf2"

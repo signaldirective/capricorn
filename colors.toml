@@ -1,0 +1,55 @@
+# Capricorn — a theme for the cyborg wolf Capri (Cyberpunk: Edgerunners 2).
+# Extracted from backgrounds/01.png: deep night-navy base with neon green,
+# arterial red, and hot orange accents.
+
+# --- Semantic palette (Omarchy 4) ---
+background = "#021228"
+foreground = "#d8d2c9"
+accent = "#24d120"
+cursor = "#24d120"
+
+red = "#f80824"
+green = "#24d120"
+yellow = "#f99204"
+blue = "#1f65a2"
+magenta = "#b864a8"
+cyan = "#40b1d3"
+orange = "#f77302"
+purple = "#b864a8"
+
+bright_red = "#ff4a57"
+bright_green = "#6bf25f"
+bright_yellow = "#ffb64d"
+bright_blue = "#5bb8e8"
+bright_magenta = "#e58bd4"
+bright_cyan = "#8fdcf2"
+bright_foreground = "#f2ede6"
+
+dark_background = "#010a18"
+darker_background = "#010812"
+lighter_background = "#062951"
+dark_foreground = "#595c64"
+light_foreground = "#d8d2c9"
+muted = "#7e8a9e"
+
+selection = "#0e4477"
+selection_background = "#0e4477"
+selection_foreground = "#f2ede6"
+
+# --- Legacy ANSI (color0–15) ---
+color0 = "#021228"
+color1 = "#f80824"
+color2 = "#24d120"
+color3 = "#f99204"
+color4 = "#1f65a2"
+color5 = "#b864a8"
+color6 = "#40b1d3"
+color7 = "#d8d2c9"
+color8 = "#595c64"
+color9 = "#ff4a57"
+color10 = "#6bf25f"
+color11 = "#ffb64d"
+color12 = "#5bb8e8"
+color13 = "#e58bd4"
+color14 = "#8fdcf2"
+color15 = "#f2ede6"
