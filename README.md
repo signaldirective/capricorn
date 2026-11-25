@@ -12,13 +12,12 @@ everything hot runs amber.
 ## Install
 
 ```bash
-omarchy theme install <your-git-remote-url>
+omarchy theme install https://github.com/signaldirective/capricorn.git
 ```
 
 or, for a local copy:
 
 ```bash
-cp -r ~/Projects/themes/capricorn ~/.config/omakub/themes/capricorn
 omarchy theme set capricorn
 ```
 
@@ -36,3 +35,4 @@ omarchy theme set capricorn
   Chromium, Walker, Obsidian, Vencord, and the GNOME extensions.
 - Backgrounds live in `backgrounds/`; cycle them with
   `omarchy theme bg next`.
+- **Omabuntu**: Compatible with both Omarchy and Omabuntu (hence the gnome-related stuff)
