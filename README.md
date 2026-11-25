@@ -1,10 +1,10 @@
 # CAPRICORN
 
-An Omarchy theme for Capri — the cyborg wolf of Cyberpunk: Edgerunners 2.
+An Omarchy theme for Capri — the memory engram construct of Cyberpunk: Edgerunners 2.
 
 Deep night navy pulled straight from the Capri artwork, with neon green,
 arterial red, and hot orange running through every surface. The terminal
-blooms green like the wolf's optics; alerts run red like arterial spray;
+blooms green like the Capri's optics; alerts run red like arterial spray;
 everything hot runs amber.
 
 ![CAPRICORN](preview.png)
